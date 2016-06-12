@@ -1,5 +1,6 @@
-layout_spectrum: 0.6869631509762257
 typography_spectrum: 0.9469783841632307
+content_rating:
+  adult: false
 color:
   brandStrength: 0.1609993176534772
   lightness: 0.009105430915951729
@@ -11,4 +12,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.6869631509762257
 name: Jim Hannon-Tan
+title: Product Design
