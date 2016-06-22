@@ -4,8 +4,15 @@
         <description><![CDATA[Product Design]]></description>
         <link>https://thegrid.ai/jim-hannon-tan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 14:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 22:56:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jim-hannon-tan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nutsplitter]]></title>
+            <description><![CDATA[<article><h1>Nutsplitter</h1><p>Alessi, 2008</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f698ebf5-6694-4ad4-b006-87babc224bb3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jim-hannon-tan/nutsplitter/index.html</link>
+            <guid isPermaLink="false">bf69562d-8c42-4edc-bb3f-2bc453e57a96</guid>
+            <pubDate>Wed, 22 Jun 2016 22:56:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Clampleg]]></title>
             <description><![CDATA[<article><h1>Clampleg</h1><p>2001</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4b35ef4-18a2-4588-9582-fc73108945e2.jpg"></article>]]></description>
@@ -26,20 +33,6 @@
             <link>https://thegrid.ai/jim-hannon-tan/cutting-up-knives/index.html</link>
             <guid isPermaLink="false">fb37fa0f-68ad-44dd-aa48-b78b78373c12</guid>
             <pubDate>Sun, 12 Jun 2016 13:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nutsplitter]]></title>
-            <description><![CDATA[<article><h1>Nutsplitter</h1><p>A small nut opener made using investment cast steel, designed after watching an Italian friend open a walnut with a knife , a technique I had never seen before. I tend to keep my eyes peeled for interesting and unique behaviours as a kind of informal ethnographic research. The Nutsplitter was the first project I designed for Alessi, in 2008</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/633d207e-e08e-430c-8ee0-eb7a468f226e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jim-hannon-tan/nutsplitter/index.html</link>
-            <guid isPermaLink="false">bf69562d-8c42-4edc-bb3f-2bc453e57a96</guid>
-            <pubDate>Sun, 12 Jun 2016 13:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Urban Symmetry]]></title>
-            <description><![CDATA[<article><h1>Urban Symmetry</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff2f22c8b4189c4c1a608f3b00a7e49071e73c0c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Xziiv3sodcY</link>
-            <guid isPermaLink="false">24c05272-fa3e-4b58-aef6-30ae2e46fa05</guid>
-            <pubDate>Sun, 12 Jun 2016 08:13:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
