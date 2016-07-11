@@ -1,17 +1,17 @@
-typography_spectrum: 0.9469783841632307
+typography_spectrum: 0.3824337760452181
 content_rating:
   adult: false
 color:
-  brandStrength: 0.1609993176534772
-  lightness: 0.009105430915951729
-  saturation: 0.013422567630186677
-  rhythmicContrast: 0.8294437020085752
+  brandStrength: 0.32697320356965065
+  lightness: 0.29014995973557234
+  saturation: 0.42006158339791
+  rhythmicContrast: 0.7472795280627906
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.6869631509762257
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+layout_spectrum: 0.8796028844080865
 name: Jim Hannon-Tan
 title: Product Design
